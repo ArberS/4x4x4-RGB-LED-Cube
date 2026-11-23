@@ -1,4 +1,4 @@
-[![Watch the 4x4x4 RGB LED Cube Demo](https://img.youtube.com/vi/XHkMk6CWSQQ/hqdefault.jpg)](https://www.youtube.com/watch?v=XHkMk6CWSQQ)
+[![Watch the 4x4x4 RGB LED Cube Demo](https://img.youtube.com/vi/XHkMk6CWSQQ/hqdefault.jpg)](https://youtube.com/shorts/eG8rNc1lKBU?si=XGdX4a1SFlb8N0IJ)
 
 *Click the image above to watch the full 4x4x4 RGB LED Cube demo on YouTube.*
 
